@@ -3,9 +3,12 @@ import schedule
 import time
 import os
 import sys
+import nltk
 
 if __name__ == '__main__':
     try:
+        nltk.download('stopwords')
+        print("*"*50)
         print("Enter keyword to track")
         keyword = input()
         keyword_list = [keyword]
