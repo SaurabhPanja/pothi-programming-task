@@ -7,7 +7,7 @@
 1. Create a virtualenv after cloning the repo
 
     ```
-    cd twitter_api_playground
+    cd pothi_programming_tak
     python3 -m venv venv
     ```
 2. Activate the virtual environment
