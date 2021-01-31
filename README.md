@@ -7,7 +7,7 @@
 1. Create a virtualenv after cloning the repo
 
     ```
-    cd pothi_programming_tak
+    cd pothi-programming-task
     python3 -m venv venv
     ```
 2. Activate the virtual environment
